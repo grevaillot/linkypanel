@@ -1,0 +1,8 @@
+tags
+*.elf
+*.bin
+*.map
+*-backups
+*.tmp
+generated.*.ld
+.cache
