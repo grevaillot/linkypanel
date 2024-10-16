@@ -2868,6 +2868,16 @@
 		)
 		(uuid "18f8e7e2-eea4-4fdb-bf3a-86707413206a")
 	)
+	(text "100uH / 1amp"
+		(exclude_from_sim no)
+		(at 48.514 44.704 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6ffd8853-ed45-40f1-989d-dc3d6ec15544")
+	)
 	(label "vsh1"
 		(at 184.15 34.29 180)
 		(fields_autoplaced yes)
